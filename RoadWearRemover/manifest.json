@@ -1,0 +1,9 @@
+{
+  "name": "RoadWearRemover",
+  "version_number": "1.0",
+  "website_url": "https://github.com/Cgameworld/RoadWearRemover",
+  "description": "Disables the road wear marking shader by default on game load",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
