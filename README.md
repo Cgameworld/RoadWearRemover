@@ -1,8 +1,22 @@
 # Road Wear Remover
 
-Disables the road wear marking shader by default on game load
+This mod disables the road wear marking shader on game load.
 
-Functionally the same as unchecking the shader manually in the devUI
+Helpful to get clean looking roads without white tire markings. Functionally the same as unchecking the shader manually in the game's devUI.
 
-# GitHub
-Source Code
+# Requirements
+- BepInEx 5
+
+# Installation
+1) Download the mod from either [thunderstore.io](https://thunderstore.io/c/cities-skylines-ii/p/Cgameworld/RoadWearRemover) or from from [GitHub](https://github.com/Cgameworld/RoadWearRemover/releases)
+2) If installing from GitHub, place RoadWearRemover folder inside `BepInEx/plugins` 
+
+# Acknowlegements
+
+Thanks to the Cities Skylines 2 modding community for making modding more accessible
+
+# Conclusion
+
+[Source Code](https://github.com/Cgameworld/RoadWearRemover/)
+
+If you like this mod be sure to leave an upvote! Thanks
