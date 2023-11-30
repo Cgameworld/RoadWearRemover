@@ -8,7 +8,7 @@ Helpful to get clean looking roads without white tire markings. Functionally the
 - BepInEx 5
 
 # Installation
-1) Download the mod from either [thunderstore.io](https://thunderstore.io/c/cities-skylines-ii/p/Cgameworld/RoadWearRemover) or from from [GitHub](https://github.com/Cgameworld/RoadWearRemover/releases)
+1) Download the mod from either [thunderstore.io](https://thunderstore.io/c/cities-skylines-ii/p/Cgameworld/RoadWearRemover) or from the mod's releases page on [GitHub](https://github.com/Cgameworld/RoadWearRemover/releases) 
 2) If installing from GitHub, place RoadWearRemover folder inside `BepInEx/plugins` 
 
 # Acknowlegements
